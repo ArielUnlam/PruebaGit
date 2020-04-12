@@ -12,6 +12,7 @@ public class Persona {
 	private Double peso;
 	private Double altura;
 	private String colorpelo;
+	private Boolean pelado;
 
 	public Persona() {
 
