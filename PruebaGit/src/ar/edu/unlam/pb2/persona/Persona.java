@@ -4,13 +4,14 @@ import java.time.LocalDate;
 
 public class Persona {
 
-	private String nombre;
 	private Integer edad;
+	private String nombre;
 	private LocalDate fNac;
 	private Integer dni;
 	private String sexo;
 	private Double peso;
 	private Double altura;
+	private String colorpelo;
 
 	public Persona() {
 
